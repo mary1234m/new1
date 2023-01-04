@@ -1,0 +1,6 @@
+Git init 
+Git add . 
+Git commit -m "test" 
+Git brach -m master 
+Git remote add origin url 
+Git push -u origin master
